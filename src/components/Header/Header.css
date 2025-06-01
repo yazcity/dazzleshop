@@ -1,0 +1,19 @@
+.header {
+    background-color: #151a1f;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    color: #ffffff;
+}
+.header h1 {
+    font-size: 24px;
+    margin: 0;
+}
+.logout-button {
+    background-color: #ff4757;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+}
