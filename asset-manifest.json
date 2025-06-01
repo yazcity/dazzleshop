@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dazzleshop/static/css/main.477fa79b.css",
+    "main.js": "/dazzleshop/static/js/main.fa9db327.js",
+    "static/js/453.024d544f.chunk.js": "/dazzleshop/static/js/453.024d544f.chunk.js",
+    "static/media/logo.svg": "/dazzleshop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dazzleshop/index.html",
+    "main.477fa79b.css.map": "/dazzleshop/static/css/main.477fa79b.css.map",
+    "main.fa9db327.js.map": "/dazzleshop/static/js/main.fa9db327.js.map",
+    "453.024d544f.chunk.js.map": "/dazzleshop/static/js/453.024d544f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.477fa79b.css",
+    "static/js/main.fa9db327.js"
+  ]
+}
